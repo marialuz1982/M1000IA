@@ -2,8 +2,8 @@
 import pandas as pd
 
 # Rutas a los archivos CSV usando raw strings
-path_original = r'C:\Users\facus\OneDrive\Documents\M100O IA REPO\M1000IA\IA FAKEXPERT\archivos dataset original\unificado\unificado_data.csv'
-path_modified = r'C:\Users\facus\OneDrive\Documents\M100O IA REPO\M1000IA\IA FAKEXPERT\data\processed\combined_data.csv'
+path_original = r''
+path_modified = r''
 
 # Leer los datos y contar las filas
 data_original = pd.read_csv(path_original)
