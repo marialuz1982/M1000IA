@@ -19,10 +19,25 @@ FakeXpert es un sistema desarrollado con tecnologías de vanguardia en inteligen
 
 ## Tecnologías Utilizadas
 
-- Herramientas de Desarrollo: Visual Studio Code
-- Plataformas: Figma, Trello, Chat GPT, Google Colab
-- Librerías Python: TensorFlow, PyTorch, Scikit-learn, Keras, NLTK, OpenCV, Gensim, Pandas
-- Datos: [fake-and-real-news-dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
+- Herramientas de Desarrollo:
+  - ![visualstudiocode](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat&logo=visualstudiocode)
+  - ![python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+- Plataformas:
+  - ![figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+  - ![trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+  - ![colab](https://img.shields.io/badge/-Colab-333333?style=flat&logo=googlecolab)
+  - Chat GPT
+- Librerías Python: 
+  -  ![pytorch](https://img.shields.io/badge/-Pytorch-333333?style=flat&logo=pytorch)
+  -  ![tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=tensorflow)
+  -  ![scikitlearn](https://img.shields.io/badge/-Scikitlearn-333333?style=flat&logo=scikitlearn)
+  -  ![keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
+  -  ![opencv](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
+  -  ![pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+  -  NLTK
+  -  Gensim
+- Datos:
+  - [fake-and-real-news-dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ## Participantes
 - @Cindy Milena Rodriguez Ruiz
