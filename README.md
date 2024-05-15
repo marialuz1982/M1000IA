@@ -1,5 +1,6 @@
 # fakeXpert: Detector de Noticias Falsas
-![Fake News](https://images.unsplash.com/photo-1636188540036-1879f679c2b0?q=80&w=2061&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Fake News](https://i.ibb.co/hc2P92L/fakexpert-logo.jpg)
+
 El aumento de noticias falsas en línea representa un desafío significativo en el mundo actual, especialmente en el ámbito político. FakeXpert es un proyecto desarrollado en el marco del Programa M1000IA, una iniciativa de la Universidad Tecnológica Nacional (UTN) junto a las empresas Bounty EdTech, Intel y Positivo BGH, , destinado a reducir la brecha de género en el ecosistema de la IA, crear soluciones significativas de impacto social con IA y generar procesos de upskilling & reskilling hacia la IA. 
 
 ## Problema a Resolver
@@ -24,11 +25,11 @@ FakeXpert es un sistema desarrollado con tecnologías de vanguardia en inteligen
 - Datos: [fake-and-real-news-dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset)
 
 ## Participantes
-- [@Cindy Milena Rodriguez Ruiz]
+- @Cindy Milena Rodriguez Ruiz
 - [@Daniela Benavidez Alvarez](https://github.com/danibenal)
-- [@Gabriela Soledad Coronel](https://www.github.com/lagabuok)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-coronel-43a0a4286/)
+- [@Gabriela Soledad Coronel](https://www.github.com/lagabuok)    [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-coronel-43a0a4286/)
 - [@María Florencia Maguna García](https://github.com/flormeraki)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flor-maguna/)
-- [@María Gabriela Mateo](https://github.com/gabymateo)
+- [@María Gabriela Mateo](https://github.com/gabymateo) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariagabrielamateo/)
 - [@María Luz Britos](https://www.github.com/marialuz1982)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mar%C3%ADa-luz-britos/)
 - [@Vanina Candelaria Sulca](https://github.com/VauroraS)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanina-sulca-1288b381/)
 
